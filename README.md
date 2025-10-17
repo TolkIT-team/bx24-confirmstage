@@ -53,9 +53,6 @@
 │ ├── confirm.js
 ├── lib/
 │ ├── EventHandlers.php
-├── lang/
-│ └── ru/
-│ └── options.php
 ├── include.php
 └── .description.php
 ```
