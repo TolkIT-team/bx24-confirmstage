@@ -42,7 +42,7 @@
 
 1. Скопируйте модуль в директорию: `/local/modules/tolkit.confirmstage/`
 2. Убедитесь, что структура папок выглядит так:
-`
+```text
 /local/modules/tolkit.confirmstage/
 ├── admin/
 │ ├── options.php
@@ -58,7 +58,7 @@
 │ └── options.php
 ├── include.php
 └── .description.php
-`
+```
 
 3. Установите модуль через **Админку → Настройки → Модули → Установить**
 или выполните установку вручную через консоль.
