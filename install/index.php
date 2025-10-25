@@ -35,6 +35,7 @@ class tolkit_confirmstage extends CModule
             Tolkit\ConfirmStage\EventHandlers::class,
             'onProlog'
         );
+        //EventManager::getInstance()->addEventHandler('main', 'OnProlog', [Tolkit\ConfirmStage\EventHandlers::class, 'onProlog']);
     }
 
     public function DoUninstall(): void
